@@ -1,1 +1,2 @@
 # Layoffs_Data_Analysis
+Firms around the globe are fighting the economic slowdown. The slow consumer spending, higher interest rates by central banks and strong dollars overseas are hinting towards possible recession and tech firms have started laying employees off. This economic slowdown has made many big companies recently fire 13% and more of its workforce, which amounts to more than 11,000+ employees. This dataset helps to look into analyzing recent tech turmoil and discover useful insights.
